@@ -1,17 +1,15 @@
-<h1 align="center">Hola👋, I'm Mobolarin</h1>👩🏾
-<h3 align="center">A passionate Data Analyst from Nigeria</h3>
+<h1 align="center">Hi, I'm Mobolarin</h1>
+<h3 align="center">I am a Data Analyst passionate about turning chaos & complexity into clarity</h3>
 
-- 🌱 I’m currently learning **Python & Scikitlearn**
+- I’m currently building my **Python & Scikitlearn** skills
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- I’m looking to collaborate on **Data Analysis Projects**
 
-- 🤝 I’m looking for help with **Data Science & ML**
+- Most of my projects are available at [datascienceportfol.io/mobolarin](datascienceportfol.io/mobolarin)
 
-- 👨‍💻 Most of my projects are available at [datascienceportfol.io/mobolarin](datascienceportfol.io/mobolarin)
+- You can reach me at: **mbabalolasmith@gmail.com**
 
-- 📫 How to reach me **mbabalolasmith@gmail.com**
-
-- 📄 Know about my experiences at [linkedin.com/in/mobolarin-babalola-smith/](linkedin.com/in/mobolarin-babalola-smith/)
+- Learn more about my experiences over at [linkedin.com/in/mobolarin-babalola-smith/](linkedin.com/in/mobolarin-babalola-smith/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
