@@ -5,11 +5,11 @@
 
 - I’m looking to collaborate on **Data Analysis Projects**
 
-- Most of my projects are available at [datascienceportfol.io/mobolarin](datascienceportfol.io/mobolarin)
+- Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/mobolarin)
 
-- You can reach me at: **mbabalolasmith@gmail.com**
+- You can reach me at: [Mail](mbabalolasmith@gmail.com)
 
-- Learn more about my experiences over at [linkedin.com/in/mobolarin-babalola-smith/](linkedin.com/in/mobolarin-babalola-smith/)
+- Learn more about my experiences over at [LinkedIn](https://www.linkedin.com/in/mobolarin-babalola-smith/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
