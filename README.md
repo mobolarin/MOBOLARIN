@@ -7,7 +7,7 @@
 
 - Most of my projects are available on [my portfolio](https://www.datascienceportfol.io/mobolarin)
 
-- You can reach me on this [mail](mbabalolasmith@gmail.com)
+- You can reach me on this [mail](mailto:mbabalolasmith@gmail.com)
 
 - Learn more about my experiences over on [LinkedIn](https://www.linkedin.com/in/mobolarin-babalola-smith/)
 
