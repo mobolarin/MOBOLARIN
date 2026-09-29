@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Mobolarin</h1>
-<h3 align="center">I am a Data Analyst passionate about turning chaos & complexity into clarity</h3>
+<h3 align="center">I am a data analyst passionate about turning chaos & complexity into clarity</h3>
 
 - I’m currently building my **Python & Scikitlearn** skills
 
 - I’m looking to collaborate on **Data Analysis Projects**
 
-- Most of my projects are available at [Portfolio](https://www.datascienceportfol.io/mobolarin)
+- Most of my projects are available on [my portfolio](https://www.datascienceportfol.io/mobolarin)
 
-- You can reach me at: [Mail](mbabalolasmith@gmail.com)
+- You can reach me on this [mail](mbabalolasmith@gmail.com)
 
-- Learn more about my experiences over at [LinkedIn](https://www.linkedin.com/in/mobolarin-babalola-smith/)
+- Learn more about my experiences over on [LinkedIn](https://www.linkedin.com/in/mobolarin-babalola-smith/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
